@@ -1,2 +1,2 @@
 # simple-quote-page
-O pagina simpla 
+A simple quote page
